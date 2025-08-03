@@ -139,8 +139,4 @@ MIT License
 
 Check out the working demo below!
 
-<!--
-Or if you have a GIF:
-![Demo Animation](demo.gif)
--->
-
+![Demo](demo.gif)
