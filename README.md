@@ -132,3 +132,15 @@ if __name__ == "__main__":
 ## 📄 License
 
 MIT License
+
+---
+
+## 🎥 Demo
+
+Check out the working demo below!
+
+<!--
+Or if you have a GIF:
+![Demo Animation](assets/demo.gif)
+-->
+
