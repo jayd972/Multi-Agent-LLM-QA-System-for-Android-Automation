@@ -132,11 +132,3 @@ if __name__ == "__main__":
 ## 📄 License
 
 MIT License
-
-
-**To Download:**  
-- Copy and save the above as `README.md` in your project root.
-- Or [Download as Markdown](sandbox:/mnt/data/README.md) (if you’d like, I can generate and save it for you—let me know!).
-
-If you want a requirements.txt generated or a pretty architecture diagram suggestion, just ask!
-```
