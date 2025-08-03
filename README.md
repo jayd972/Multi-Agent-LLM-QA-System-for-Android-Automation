@@ -1,5 +1,3 @@
-
-```markdown
 # Multi-Agent LLM QA System for Android Automation
 
 A full-stack, modular, multi-agent system for **LLM-powered Mobile QA Automation** on Android.  
