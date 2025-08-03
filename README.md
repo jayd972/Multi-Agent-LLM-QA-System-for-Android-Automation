@@ -3,7 +3,6 @@
 # Multi-Agent LLM QA System for Android Automation
 
 A full-stack, modular, multi-agent system for **LLM-powered Mobile QA Automation** on Android.  
-Implements the QualGent "Research Scientist Coding Challenge" for automated UI testing using a collaborative agent-based architecture.
 
 ## 🚀 Project Overview
 
@@ -19,8 +18,6 @@ It simulates how a team of QA agents (Planner, Executor, Verifier, Supervisor) c
 - **Executor Agent:** Executes UI actions in the Android environment (touch, scroll, toggle).
 - **Verifier Agent:** Checks each step’s outcome, detects failures, and triggers replanning if needed.
 - **Supervisor Agent:** Analyzes logs and visual traces, proposes improvements, and summarizes test coverage.
-
-![architecture](https://raw.githubusercontent.com/your-repo/assets/architecture.png) <!-- Optional: Replace with your diagram -->
 
 ---
 
@@ -117,7 +114,7 @@ if __name__ == "__main__":
 
 * **QA Logs:** `logs/test_log.json` (per-agent actions, failures, replans)
 * **Visual Trace:** `logs/visual_trace.npy` (frame-by-frame UI screenshots)
-* **Supervisor Report:** Printed to console, optionally includes Gemini feedback
+* **Supervisor Report:** Printed to console, includes Gemini feedback
 
 ---
 
@@ -139,16 +136,8 @@ if __name__ == "__main__":
 
 ## 📄 License
 
-MIT License (or specify your license)
+MIT License
 
----
-
-**QualGent Coding Challenge – Multi-Agent Mobile QA Automation**
-*Authors: \[Your Name]*
-
-```
-
----
 
 **To Download:**  
 - Copy and save the above as `README.md` in your project root.
