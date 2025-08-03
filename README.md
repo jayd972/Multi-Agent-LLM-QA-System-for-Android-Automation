@@ -4,7 +4,7 @@ A full-stack, modular, multi-agent system for **LLM-powered Mobile QA Automation
 
 ## 🚀 Project Overview
 
-This project extends the Agent-S architecture and integrates [`android_world`](https://github.com/google-research/android_world) for a robust, end-to-end QA pipeline.  
+This project extends the [`Agent-s`](https://github.com/simular-ai/Agent-S) architecture and integrates [`android_world`](https://github.com/google-research/android_world) for a robust, end-to-end QA pipeline.  
 It simulates how a team of QA agents (Planner, Executor, Verifier, Supervisor) can collaboratively solve natural-language mobile automation tasks, with LLM-driven reasoning and dynamic replanning.
 
 ---
