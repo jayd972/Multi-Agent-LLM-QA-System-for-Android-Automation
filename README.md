@@ -23,9 +23,7 @@ It simulates how a team of QA agents (Planner, Executor, Verifier, Supervisor) c
 
 ## 📁 Code Structure
 
-```
-
-.
+```bash
 ├── main.py                 # Pipeline entry point: runs a full QA task
 ├── agents/
 │   ├── planner\_agent.py    # PlannerAgent: LLM-driven goal decomposition
@@ -35,7 +33,6 @@ It simulates how a team of QA agents (Planner, Executor, Verifier, Supervisor) c
 ├── logs/                   # Stores run logs and visual traces
 ├── requirements.txt        # Python dependencies
 └── README.md
-
 ````
 
 ---
