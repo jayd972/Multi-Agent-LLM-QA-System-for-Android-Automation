@@ -141,6 +141,6 @@ Check out the working demo below!
 
 <!--
 Or if you have a GIF:
-![Demo Animation](assets/demo.gif)
+![Demo Animation](demo.gif)
 -->
 
