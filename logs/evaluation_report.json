@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "total_steps": 3,
+    "passed_steps": 2,
+    "failed_steps": 1,
+    "bug_detected_by_verifier": false,
+    "recovery_attempted": false
+  },
+  "feedback": [
+    "[EXECUTOR] Action passed: {'action': 'open_app_drawer'}",
+    "[EXECUTOR] Action passed: {'action': 'open_app', 'name': 'Settings', 'package_name': 'com.android.settings'}",
+    "[EXECUTOR] Failed action: {'action': 'tap', 'label': 'Network & internet'}. Consider revising subgoal or UI label.",
+    "\ud83d\udd01 Suggestion: Make planner prompt more robust to modal dialogs or pop-ups."
+  ],
+  "num_frames_recorded": 0
+}

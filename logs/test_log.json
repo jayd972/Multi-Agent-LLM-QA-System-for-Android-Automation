@@ -1,0 +1,132 @@
+[
+  {
+    "agent": "executor",
+    "action": {
+      "action": "open_app_drawer"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "open_app",
+      "name": "Settings"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "tap",
+      "label": "Network & internet"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "tap",
+      "label": "Internet"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "toggle",
+      "label": "Wi-Fi",
+      "state": "off"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "verifier",
+    "action": {
+      "action": "verify",
+      "label": "Wi-Fi",
+      "state": "off"
+    },
+    "status": "fail",
+    "reason": "Toggle state mismatch"
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "open_app_drawer"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "open_app",
+      "name": "Settings"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "tap",
+      "label": "Network & internet"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "tap",
+      "label": "Internet"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "toggle",
+      "label": "Wi-Fi",
+      "state": "off"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "verifier",
+    "action": {
+      "action": "verify",
+      "label": "Wi-Fi",
+      "state": "off"
+    },
+    "status": "pass",
+    "reason": "Toggle state matched"
+  },
+  {
+    "agent": "executor",
+    "action": {
+      "action": "toggle",
+      "label": "Wi-Fi",
+      "state": "on"
+    },
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "agent": "verifier",
+    "action": {
+      "action": "verify",
+      "label": "Wi-Fi",
+      "state": "on"
+    },
+    "status": "pass",
+    "reason": "Toggle state matched"
+  }
+]
